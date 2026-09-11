@@ -22,7 +22,7 @@ graphic design, user experience, ~~sociology,~~ writing
 
 ### recent side project activities
 
-- coding an app for desktop writers
+- ~~coding an app for desktop writers~~ struggle in using nix on macOS
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
