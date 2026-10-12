@@ -24,6 +24,8 @@ graphic design, user experience, ~~sociology,~~ writing
 
 - coding an app for desktop writers
 
+- remake color scheme [eclat](https://github.com/caelyreth/eclat-zed) to [cosmofi](https://cosmofi.iki.moe/)
+
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
   > 3D sparse convolution library for point clouds, optimized for Apple Silicon and a sibling CUDA implementation.
