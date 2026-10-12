@@ -1,9 +1,5 @@
 <div align='center'>
   <p>
-    sᴘᴇɴᴅɪɴɢ ᴀ ʟɪғᴇᴛɪᴍᴇ, ᴛᴏ ᴛᴀsᴛᴇ ᴛʜᴇ ʟᴏᴠᴇ ᴀɴᴅ ᴘᴀɪɴ.
-  </p>
-
-  <p>
     <img src="https://count.getloli.com/@caelyreth?name=caelyreth&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
   </p>
 </div>
