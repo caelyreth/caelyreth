@@ -20,7 +20,7 @@ graphic design, user experience, ~~sociology,~~ writing
 
 - r&d on vrm based pseudo digital life
 
-- coding an app for desktop writers
+- coding an app for desktop writers -> [neverland](https://github.com/caelyreth/neverland)
 
 - remake color scheme [eclat](https://github.com/caelyreth/eclat-zed) to [cosmofi](https://cosmofi.iki.moe/)
 
