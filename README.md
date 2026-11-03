@@ -22,7 +22,7 @@ graphic design, user experience, ~~sociology,~~ writing
 
 - coding an app for desktop writers -> [neverland](https://github.com/caelyreth/neverland) (coming soon...)
 
-- remake color scheme [eclat](https://github.com/caelyreth/eclat-zed) to [cosmofi](https://cosmofi.iki.moe/)
+- experimental typst & tex dual syntax input math renderer -> [untie](https://github.com/caelyreth/untie)
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
