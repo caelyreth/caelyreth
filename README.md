@@ -6,23 +6,19 @@
 
 ### about me
 
-hello, this is Yu here, an undergraduate student, an indie developer;
-
-you can [visit my site](https://iki.moe) to check more (Chinese only currently).
+hello, this is Yu here, an undergraduate student, an indie developer
 
 ### topics
 
-system, parallel computing, ~~neural codec~~, agent harness, developer experience
-
-graphic design, user experience, ~~sociology,~~ writing
+system, parallel computing, user experience, graphic design
 
 ### recent side project activities
 
-- r&d on vrm based pseudo digital life
+- [evil-mygo](https://github.com/caelyreth/evil-mygo) for custom external GPU texture + render MyGo inside texture back
+
+- r&d on vrm based simulated digital life
 
 - coding an app for desktop writers -> [neverland](https://github.com/caelyreth/neverland) (coming soon...)
-
-- experimental typst & tex dual syntax input math renderer -> [untie](https://github.com/caelyreth/untie)
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
