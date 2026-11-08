@@ -24,4 +24,4 @@ system, parallel computing, user experience, graphic design
 
 ### contacts
 
-[me@iki.moe](mailto:me@iki.moe) for personal work, [rain@alphayou.io](mailto:rain@alphayou.io) for [Alpha You](https://github.com/alphayou) support
+[me@iki.moe](mailto:me@iki.moe)
