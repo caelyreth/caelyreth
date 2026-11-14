@@ -14,12 +14,9 @@ system, parallel computing, user experience, graphic design
 
 ### recent side project activities
 
-- [evil-mygo](https://github.com/caelyreth/evil-mygo) for custom external GPU texture + render MyGo inside texture back
-
 - r&d on vrm based simulated digital life
-
-- coding an app for desktop writers -> [neverland](https://github.com/caelyreth/neverland) (coming soon...)
-
+- coding an app for desktop writers -> [neverland](https://github.com/caelyreth/neverland) (coming soon in 2w...)
+- [evil-mygo](https://github.com/caelyreth/evil-mygo) for custom external GPU texture + render MyGo inside texture back
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
 ### contacts
