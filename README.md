@@ -21,4 +21,4 @@ system, parallel computing, user experience, graphic design
 
 ### contacts
 
-[me@iki.moe](mailto:me@iki.moe)
+[me@elm.fm](mailto:me@elm.fm)
